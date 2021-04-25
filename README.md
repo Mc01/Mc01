@@ -6,5 +6,3 @@
 ### Checkout those awesome projects
 
 - 🥇 [Project worth tracking](https://github.com/Mc01?tab=stars)
-
-👋
