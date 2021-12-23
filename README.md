@@ -21,5 +21,6 @@
 
 ### Rug Pulls
 
+- 🌐 [Web3 is going great](https://web3isgoinggreat.com/)
 - 🗞️ [Rekt News](https://rekt.news)
 - 🖥️ [Rugscreen Scanner](https://www.rugscreen.com/Scan/Index)
