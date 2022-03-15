@@ -24,3 +24,7 @@
 - 🌐 [Web3 is going great](https://web3isgoinggreat.com/)
 - 🗞️ [Rekt News](https://rekt.news)
 - 🖥️ [Rugscreen Scanner](https://www.rugscreen.com/Scan/Index)
+
+---
+
+[![Mc01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mc01&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
