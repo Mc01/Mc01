@@ -12,6 +12,7 @@
 ### Checkout those awesome projects
 
 - 😈 [AngelBlock](https://angelblock.io)
+- 📚 [10C's DeFi developer roadmap](https://github.com/10clouds/defi-developer-roadmap)
 - 🥇 [Projects worth tracking](https://github.com/Mc01?tab=stars)
 
 ### People to follow
