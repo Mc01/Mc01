@@ -2,17 +2,14 @@
 
 - 💎 [Etherscan](https://etherscan.io/address/0xf7de62b65768a169279be74b12faa65a22fb38d3)
 - 🧪 [Goerli](https://goerli.etherscan.io/address/0xf7de62b65768a169279be74b12faa65a22fb38d3)
-- 🧪 [Rinkeby](https://rinkeby.etherscan.io/address/0xf7de62b65768a169279be74b12faa65a22fb38d3)
-- 🧪 [Ropsten](https://ropsten.etherscan.io/address/0xf7de62b65768a169279be74b12faa65a22fb38d3)
 - 🗻 [Fuji](https://testnet.snowtrace.io/address/0xf7de62b65768a169279be74b12faa65a22fb38d3)
 - ❄️ [Snowtrace](https://snowtrace.io/address/0xf7de62b65768a169279be74b12faa65a22fb38d3)
-- 🧁 [Bscscan](https://bscscan.com/address/0xf7de62b65768a169279be74b12faa65a22fb38d3)
 - 🌀 [Polygonscan](https://polygonscan.com/address/0xF7DE62B65768a169279be74b12FaA65a22FB38D3)
+- 🧁 [Bscscan](https://bscscan.com/address/0xf7de62b65768a169279be74b12faa65a22fb38d3)
 
 ### Checkout those awesome projects
 
 - 😈 [AngelBlock](https://angelblock.io)
-- 📚 [10C's DeFi developer roadmap](https://github.com/10clouds/defi-developer-roadmap)
 - 🥇 [Projects worth tracking](https://github.com/Mc01?tab=stars)
 
 ### People to follow
