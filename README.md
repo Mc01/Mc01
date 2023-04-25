@@ -27,4 +27,4 @@
 
 ---
 
-[![Mc01 stats](https://github-readme-stats.vercel.app/api?username=Mc01&hide=contribs&show_icons=true&theme=tokyonight)](#)
+[![Mc01 stats](https://github-readme-stats.vercel.app/api?username=Mc01&show_icons=true&theme=tokyonight)](#)
