@@ -1,6 +1,8 @@
 ### Checkout those awesome projects
 
 - 😈 [AngelBlock](https://angelblock.io)
+- ☁️ [Aira](https://airalabs.io)
+- 🫀 [Celo](https://celo.org)
 - 🥇 [Projects worth tracking](https://github.com/Mc01?tab=stars)
 
 ### People to follow
