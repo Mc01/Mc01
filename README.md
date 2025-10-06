@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=2324400&image_size=auto&color_scheme=dark" width="771" height="auto">
+  <img alt="Dashboard stats of @Mc01" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=2324400&image_size=auto&color_scheme=light" width="771" height="auto">
+</picture>
+
 ### Checkout those awesome projects
 
 - 😈 [AngelBlock](https://angelblock.io)
