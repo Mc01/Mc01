@@ -5,9 +5,8 @@
 
 ### Checkout those awesome projects
 
-- 😈 [AngelBlock](https://angelblock.io)
-- ☁️ [Aira](https://airalabs.io)
-- 🫀 [Celo](https://celo.org)
+- 😈 [AngelBlock](https://github.com/angel-block)
+- 🫀 [Celo](https://github.com/celo-org)
 - 🥇 [Projects worth tracking](https://github.com/Mc01?tab=stars)
 
 ### People to follow
