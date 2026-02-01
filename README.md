@@ -16,8 +16,3 @@
 - [Rafał Majchrzak](https://github.com/rafal2228)
 - [Piotr Jaroszewski](https://github.com/akcelero)
 - [Mikołaj Okrzesa](https://github.com/mokrzesa)
-
-### Rug Pulls
-
-- 🌐 [Web3 is going great](https://web3isgoinggreat.com/)
-- 🗞️ [Rekt News](https://rekt.news)
